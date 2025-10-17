@@ -1,8 +1,14 @@
+# Core dependencies
 pandas>=2.1.0
 numpy>=1.25.0
 requests>=2.31.0
 pytz>=2023.3
+
+# Visualization
 plotly>=5.20.0
+
+# Web app framework
 streamlit>=1.38.0
+
+# Optional (recommended for smoother rendering)
 matplotlib>=3.8.0
-warnings
