@@ -17,7 +17,7 @@ warnings.filterwarnings('ignore')
 IST = pytz.timezone("Asia/Kolkata")
 
 CLIENT_ID = '1100244268'
-ACCESS_TOKEN = 'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJpc3MiOiJkaGFuIiwicGFydG5lcklkIjoiIiwiZXhwIjoxNzYwOTcyODY3LCJpYXQiOjE3NjA4ODY0NjcsInRva2VuQ29uc3VtZXJUeXBlIjoiU0VMRiIsIndlYmhvb2tVcmwiOiIiLCJkaGFuQ2xpZW50SWQiOiIxMTAwMjQ0MjY4In0.18huYzJ9BbbjFDXi4Us6_HlGaderg1NhYvXJEfZEohtyWeXMenzYhyYKSotkfyc_IMvawhFqHsuDqmADQufPlg'
+ACCESS_TOKEN = 'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJpc3MiOiJkaGFuIiwicGFydG5lcklkIjoiIiwiZXhwIjoxNzYxMzE3NjY5LCJpYXQiOjE3NjEyMzEyNjksInRva2VuQ29uc3VtZXJUeXBlIjoiU0VMRiIsIndlYmhvb2tVcmwiOiIiLCJkaGFuQ2xpZW50SWQiOiIxMTAwMjQ0MjY4In0.iSGm0HJ7vcHcNqvI6X0Z3LUbhtmgjsBtPtYYZ4PMdMNIAVa5sM0OSEAboYTXyHucR3VzupkhItGZrudQRdnQjA'
 
 HEADERS = {
     'client-id': CLIENT_ID,
@@ -567,3 +567,4 @@ def main():
 if __name__ == "__main__":
 
     main()
+
